@@ -36,7 +36,7 @@ You might need to change some margins but you get quite literally a fancy window
 
 ## Learning from those that survived
 
-When taking your first steps into the UI wasteland you sould look at how the brave UI coders that came before you survived this harsh environment.
+When taking your first steps into the UI wasteland you should look at how the brave UI coders that came before you survived this harsh environment.
 
 One of the best examples to look at is the [GravityGeneratorWindow](https://github.com/space-wizards/space-station-14/blob/master/Content.Client/Gravity/UI/GravityGeneratorWindow.xaml).
 
